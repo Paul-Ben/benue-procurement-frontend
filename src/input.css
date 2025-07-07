@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@custom-variant hover (&:hover);
 /* @plugin "daisyui"; */
 /* install daisyui for this to work */
 
